@@ -27,7 +27,7 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  *
- * @package mubbi/custom-PHP-framework
+ * @package mubbi/php-framework-MVC-psr
  * @author  Mubbasher Ahmed Qureshi
  * @copyright   Copyright (c) 2018, Mubbasher Ahmed. (http://mubbiqureshi.com/)
  * @license http://opensource.org/licenses/MIT  MIT License
